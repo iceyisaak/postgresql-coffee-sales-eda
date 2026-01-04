@@ -1,6 +1,8 @@
 # PostgreSQL-Coffee-Sales-EDA
 
 ###### Dataset: https://www.kaggle.com/datasets/najir0123/monday-coffee-sql-data-analysis-project/data
+
+###### Repo: https://github.com/iceyisaak/postgresql-coffee-sales-eda
 ---
 
 ### Tech Stack
@@ -36,3 +38,5 @@ Based on the analysis, the top 3 cities that are worthy of business investment:
 1. Pune: High avg sales/customers, Highest total revenue, Low rent/customer
 2. Delhi: Highest number of coffee consumers, Highest total number of customers, Low rent/customer
 3. Jaipur: Highest total number of customers, Low rent/customer, High sales/customer
+
+---
